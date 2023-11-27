@@ -8,6 +8,8 @@
 <body>
    <form action="censura.php" method="GET">
     <textarea name="paragraph" cols="30" rows="10"></textarea>
+    <input type="text" name="badword">
+    <button type="submit">Invia</button>
    </form>
     
 </body>
